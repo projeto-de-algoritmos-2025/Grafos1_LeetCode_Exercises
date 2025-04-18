@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Grafos1_LeetCode_Exercises
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -27,6 +27,10 @@ Essa solução usa DFS com uma fila de prioridade (min-heap) para garantir que, 
 A solução usa o Algoritmo de Dijkstra para encontrar o caminho mais curto entre dois nós em um grafo ponderado. A classe Graph armazena o grafo, permite adicionar novas arestas e calcular o caminho mais curto com a função shortestPath. O algoritmo utiliza uma fila de prioridade para garantir eficiência ao explorar os nós e encontrar a menor distância. Se o nó de destino for alcançado, a distância mínima é retornada, caso contrário, é retornado -1.
 
 ![2642](/assets/2642.png)
+
+##Link para vídeo da apresentação:
+https://youtu.be/Jw0geYuAjss
+
 
 ## Instalação 
 **Linguagem**: Python<br>
