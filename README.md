@@ -23,6 +23,11 @@ Essa solução usa DFS com uma fila de prioridade (min-heap) para garantir que, 
 
 ![332](/assets/332.PNG)
 
+### [2642 - Difícil](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+A solução usa o Algoritmo de Dijkstra para encontrar o caminho mais curto entre dois nós em um grafo ponderado. A classe Graph armazena o grafo, permite adicionar novas arestas e calcular o caminho mais curto com a função shortestPath. O algoritmo utiliza uma fila de prioridade para garantir eficiência ao explorar os nós e encontrar a menor distância. Se o nó de destino for alcançado, a distância mínima é retornada, caso contrário, é retornado -1.
+
+![2642](/assets/2642.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 
