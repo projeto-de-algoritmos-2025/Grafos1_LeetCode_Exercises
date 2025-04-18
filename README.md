@@ -15,7 +15,7 @@ Resolução de questões do LeetCode (1 difícil e 2 médias) pelos integrantes 
 ## Screenshots
 ### [785 - Média](https://leetcode.com/problems/is-graph-bipartite/)
 A solução usa DFS para tentar colorir o grafo com duas cores alternadas (0 e 1). Começamos colorindo o nó de forma arbitrária (0), e a cada passo colorimos os vizinhos com a cor oposta. Se algum vizinho já tiver a mesma cor, o grafo não é bipartido e retornamos false. Como o grafo pode ser desconexo, percorremos todos os nós, iniciando a DFS nos que ainda não foram coloridos. A função retorna true se todas as componentes do grafo forem bipartidas.
-![Print da Resolução 785](/assets\785.png)
+![785](/assets/785.png)
 ## Instalação 
 **Linguagem**: Python<br>
 
