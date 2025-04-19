@@ -29,8 +29,7 @@ A solução usa o Algoritmo de Dijkstra para encontrar o caminho mais curto entr
 ![2642](/assets/2642.png)
 
 ##Link para vídeo da apresentação:
-https://youtu.be/Jw0geYuAjss
-
+https://youtu.be/8xYhj3FRoEI
 
 ## Instalação 
 **Linguagem**: Python<br>
